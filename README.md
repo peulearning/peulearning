@@ -93,6 +93,9 @@ Eu Sou Desenvolvedor FullStack e Freelancer <img src="https://media.giphy.com/me
 
 <a target="_blank" href="https://initial-port.vercel.app/">Portfólio I (Manutenção) </a>
 <br>
+<a target="_blank" href="https://portreact-peu.vercel.app">Portfólio II (ON) </a>
+<br>
 <a href="https://drive.google.com/file/d/1BigxEikYSwVSYZUS1G6dDjxi8eJf1IP6/view?usp=sharing/">Currículo</a>
 <br>
+
   
