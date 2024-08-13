@@ -95,6 +95,6 @@ Eu Sou Desenvolvedor FullStack e Freelancer <img src="https://media.giphy.com/me
 <br>
 <a href="https://drive.google.com/file/d/1BigxEikYSwVSYZUS1G6dDjxi8eJf1IP6/view?usp=sharing/">Currículo</a>
 <br>
-<a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=89F4B6229446CB75E27B65FD88E941E2#">Lattes</a>
+<a href="http://lattes.cnpq.br/8448769584790074">Lattes</a>
 
   
