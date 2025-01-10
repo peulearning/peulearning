@@ -93,7 +93,7 @@ Eu Sou Desenvolvedor FullStack e Freelancer <img src="https://media.giphy.com/me
 
 <a target="_blank" href="https://portreact-peu.vercel.app">Portfólio I </a>
 <br>
-<a href="https://drive.google.com/file/d/1BigxEikYSwVSYZUS1G6dDjxi8eJf1IP6/view?usp=sharing/">Currículo</a>
+<a href="https://drive.google.com/file/d/1ZVZkrnpV1wCUL5GBiF4aXIW4MLhvhJ1l/view?usp=sharing/">Currículo</a>
 <br>
 <a href="http://lattes.cnpq.br/8448769584790074">Lattes</a>
 
