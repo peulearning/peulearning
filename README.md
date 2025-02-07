@@ -22,21 +22,22 @@
 </div>
 
 ---
-### 🧙 Sobre Mim :
+### 🧙 About me :
 
-Eu Sou Desenvolvedor FullStack e Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a FullStack Developer and Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Minha jornada começou fervendo de entusiasmo por cursos online, pavimentando meu caminho após concluir o ensino médio. Num piscar de olhos, eu estava adentrando os portões de uma universidade federal, ansioso para mergulhar de cabeça na minha paixão e iniciar minha trajetória de especialização na área. Desde então, venho incessantemente buscando aprimorar meus conhecimentos, imergindo-me em uma sinfonia de tecnologias e explorando suas profundezas. Trilhei meu percurso por experiências profissionais marcantes em duas empresas notáveis: Nixem (São Paulo - Remoto) e DFranquias (Rio de Janeiro - Remoto). Nessas jornadas, encontrei mentores incríveis que não apenas me guiaram, mas também me abriram os olhos para a grandiosidade e diversidade do universo da Computação.
+- :telescope: My journey began with an enthusiasm for online courses, paving my way after finishing high school. In the blink of an eye, I was entering a federal university, eager to dive into my passion and start my specialization in the field. Since then, I have been relentlessly seeking to enhance my knowledge, immersing myself in a symphony of technologies and exploring their depths. I have walked my path through remarkable professional experiences in two notable companies: Nixem (São Paulo - Remote) and DFranquias (Rio de Janeiro - Remote). During these journeys, I encountered incredible mentors who not only guided me but also opened my eyes to the grandeur and diversity of the computing universe.
 
-- :seedling: No meu tempo livre, estudo com cursos como RockeSeat, Origamid, Udemy e desenvolvo projetos pessoais, afim de melhorar minhas habilidades.
+- :seedling: In my free time, I study through courses like RockeSeat, Origamid, Udemy, and develop personal projects to improve my skills.
 
-- :zap:Nesse momento,  minha experiência está direcionada para o DevWeb, sempre estou buscando aprender mais para me aperfeiçoar. Minhas competências principais  são: HTML5, CSS3, JavaScript, UX/UI Designer, Git , Bootstrap e Banco de Dados
 
-- :mailbox:Entre em contato: [![Linkedin Badge](https://img.shields.io/badge/-PedroHenrique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-a-m-ribeiro-292890229/)
+- :zap: At the moment, my experience is focused on Web Development, and I am always looking to learn more to improve. My main skills are: HTML5, CSS3, JavaScript, UX/UI Design, Git, Bootstrap, and Databases.
+
+- :mailbox: Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-PedroHenrique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-a-m-ribeiro-292890229/)
 
 ---
 
-### :hammer_and_wrench: Linguagens e Ferramentas :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
@@ -89,11 +90,11 @@ Eu Sou Desenvolvedor FullStack e Freelancer <img src="https://media.giphy.com/me
   
 ---
 
-### 📑Portfólio/Currículo :
+### 📑Portfolio/Resume:
 
 <a target="_blank" href="https://portreact-peu.vercel.app">Portfólio I </a>
 <br>
-<a href="https://drive.google.com/file/d/1e5L0sTDn2COVUnUlUDaNHdKxAZ42VA2q/view?usp=sharing">Currículo</a>
+<a href="https://drive.google.com/file/d/1e5L0sTDn2COVUnUlUDaNHdKxAZ42VA2q/view?usp=sharing">Resume</a>
 <br>
 <a href="http://lattes.cnpq.br/8448769584790074">Lattes</a>
 
