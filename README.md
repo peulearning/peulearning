@@ -94,7 +94,7 @@ I am a FullStack Developer and Freelancer <img src="https://media.giphy.com/medi
 
 <a target="_blank" href="https://portreact-peu.vercel.app">Portfólio I </a>
 <br>
-<a href="https://drive.google.com/file/d/1e5L0sTDn2COVUnUlUDaNHdKxAZ42VA2q/view?usp=sharing">Resume</a>
+<a href="https://drive.google.com/file/d/1RgkyThs6p9flG8pFtDmcCwJXtneK2jEe/view?usp=sharing">Resume</a>
 <br>
 <a href="http://lattes.cnpq.br/8448769584790074">Lattes I</a>
 
