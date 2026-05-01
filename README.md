@@ -24,14 +24,14 @@
 ---
 ### 🧙 About me :
 
-I am a FullStack Developer and Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Back Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: My journey began with an enthusiasm for online courses, paving my way after finishing high school. In the blink of an eye, I was entering a federal university, eager to dive into my passion and start my specialization in the field. Since then, I have been relentlessly seeking to enhance my knowledge, immersing myself in a symphony of technologies and exploring their depths. I have walked my path through remarkable professional experiences in two notable companies: Nixem (São Paulo - Remote) and DFranquias (Rio de Janeiro - Remote). During these journeys, I encountered incredible mentors who not only guided me but also opened my eyes to the grandeur and diversity of the computing universe.
+- :telescope: Backend developer with experience in creating scalable applications and systems, focusing on performance, architecture, and security. I have worked on developing APIs and services, ensuring practices such as access control, good authentication/validation policies, and maintaining organized and robust code.
 
-- :seedling: In my free time, I study through courses like RockeSeat, Origamid, Udemy, and develop personal projects to improve my skills.
+- :seedling: In my free time, I pursue continuous improvement through self-study, keeping up-to-date with market technologies.
 
 
-- :zap: At the moment, my experience is focused on Web Development, and I am always looking to learn more to improve. My main skills are: HTML5, CSS3, JavaScript, UX/UI Design, Git, Bootstrap, and Databases.
+- :zap: At the moment, my experience is focused on Web & Mobile Development, and I am always looking to learn more to improve.
 
 - :mailbox: Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-PedroHenrique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-a-m-ribeiro-292890229/)
 
@@ -41,11 +41,9 @@ I am a FullStack Developer and Freelancer <img src="https://media.giphy.com/medi
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40" />
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GOLang" **alt="React" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
 ---
@@ -54,17 +52,17 @@ I am a FullStack Developer and Freelancer <img src="https://media.giphy.com/medi
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/peulearning">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peulearning&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peulearning&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
   
   ## 🌐 Social-Links
   <div>
-   <a href="https://www.youtube.com/channel/UCX6cyBFloEhqilph6BB5gFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/peu20k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/peulearning" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <!-- <a href="https://www.youtube.com/channel/UCX6cyBFloEhqilph6BB5gFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <!-- <a href="https://instagram.com/peu20k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+ 	<!-- <a href="https://www.twitch.tv/peulearning" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:contatopeuhenry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-292890229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
