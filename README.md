@@ -44,6 +44,7 @@ I am a Back Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GOLang" **alt="React" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
 </div>
 
 ---
